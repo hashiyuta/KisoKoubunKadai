@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ktc\\source\\repos\\Kadai1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5B25DF-21DE-4868-9C8C-239FC11CCF7B}|Kadai1\\Kadai1.vcxproj|C:\\Users\\ktc\\source\\repos\\Kadai1\\Kadai1\\Kadai1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF5B25DF-21DE-4868-9C8C-239FC11CCF7B}|Kadai1\\Kadai1.vcxproj|solutionrelative:Kadai1\\Kadai1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kadai1.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\source\\repos\\Kadai1\\Kadai1\\Kadai1.cpp",
+              "RelativeDocumentMoniker": "Kadai1\\Kadai1.cpp",
+              "ToolTip": "C:\\Users\\ktc\\source\\repos\\Kadai1\\Kadai1\\Kadai1.cpp",
+              "RelativeToolTip": "Kadai1\\Kadai1.cpp",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwEgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-09T05:34:33.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
