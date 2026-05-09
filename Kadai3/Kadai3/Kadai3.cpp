@@ -55,4 +55,6 @@ int main()
         fizzbuzz(num);
         num++;
     }
+
+    return 0;
 }
