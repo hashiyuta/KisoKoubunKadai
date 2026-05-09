@@ -3,11 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ktc\\Documents\\GitHub\\25a31a0044\\KisoKoubunKadai\\Kadai1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ktc\\Documents\\GitHub\\25a31a0044\\KisoKoubunKadai\\Kadai3\\Kadai3\\Kadai3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EF5B25DF-21DE-4868-9C8C-239FC11CCF7B}|Kadai1\\Kadai1.vcxproj|C:\\Users\\ktc\\Documents\\GitHub\\25a31a0044\\KisoKoubunKadai\\Kadai1\\Kadai1\\disp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF5B25DF-21DE-4868-9C8C-239FC11CCF7B}|Kadai1\\Kadai1.vcxproj|solutionrelative:Kadai1\\disp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF5B25DF-21DE-4868-9C8C-239FC11CCF7B}|Kadai1\\Kadai1.vcxproj|C:\\Users\\ktc\\Documents\\GitHub\\25a31a0044\\KisoKoubunKadai\\Kadai1\\Kadai1\\Kadai1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EF5B25DF-21DE-4868-9C8C-239FC11CCF7B}|Kadai1\\Kadai1.vcxproj|solutionrelative:Kadai1\\Kadai1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5B25DF-21DE-4868-9C8C-239FC11CCF7B}|Kadai1\\Kadai1.vcxproj|C:\\Users\\ktc\\Documents\\GitHub\\25a31a0044\\KisoKoubunKadai\\Kadai1\\Kadai1\\disp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF5B25DF-21DE-4868-9C8C-239FC11CCF7B}|Kadai1\\Kadai1.vcxproj|solutionrelative:Kadai1\\disp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,19 +22,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "disp.h",
+              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\GitHub\\25a31a0044\\KisoKoubunKadai\\Kadai1\\Kadai1\\disp.h",
+              "RelativeDocumentMoniker": "Kadai1\\disp.h",
+              "ToolTip": "C:\\Users\\ktc\\Documents\\GitHub\\25a31a0044\\KisoKoubunKadai\\Kadai1\\Kadai1\\disp.h",
+              "RelativeToolTip": "Kadai1\\disp.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-09T06:53:07.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Kadai3.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\GitHub\\25a31a0044\\KisoKoubunKadai\\Kadai3\\Kadai3\\Kadai3.cpp",
-              "RelativeDocumentMoniker": "..\\Kadai3\\Kadai3\\Kadai3.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Documents\\GitHub\\25a31a0044\\KisoKoubunKadai\\Kadai3\\Kadai3\\Kadai3.cpp",
-              "RelativeToolTip": "..\\Kadai3\\Kadai3\\Kadai3.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Title": "disp.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\GitHub\\25a31a0044\\KisoKoubunKadai\\Kadai1\\Kadai1\\disp.cpp",
+              "RelativeDocumentMoniker": "Kadai1\\disp.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Documents\\GitHub\\25a31a0044\\KisoKoubunKadai\\Kadai1\\Kadai1\\disp.cpp",
+              "RelativeToolTip": "Kadai1\\disp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-09T06:36:30.893Z",
+              "WhenOpened": "2026-05-09T06:53:05.949Z",
               "EditorCaption": ""
             },
             {
@@ -40,7 +58,7 @@
               "RelativeDocumentMoniker": "Kadai1\\Kadai1.cpp",
               "ToolTip": "C:\\Users\\ktc\\Documents\\GitHub\\25a31a0044\\KisoKoubunKadai\\Kadai1\\Kadai1\\Kadai1.cpp",
               "RelativeToolTip": "Kadai1\\Kadai1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-09T06:33:19.367Z",
               "EditorCaption": ""
