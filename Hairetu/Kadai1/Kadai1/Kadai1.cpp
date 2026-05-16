@@ -13,4 +13,6 @@ int main()
     {
         agePrint(age[i]);
     }
+
+    return 0;
 }

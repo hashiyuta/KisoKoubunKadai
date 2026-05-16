@@ -11,4 +11,6 @@ int main()
     str[26] = '\0';
 
     printf("%s", str);
+
+    return 0;
 }

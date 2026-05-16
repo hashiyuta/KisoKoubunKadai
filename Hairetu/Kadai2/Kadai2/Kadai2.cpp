@@ -19,4 +19,6 @@ int main()
     }
 
     printf("最大値は%dです", max);
+
+    return 0;
 }
